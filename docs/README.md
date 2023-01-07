@@ -11,18 +11,6 @@ footer: "ECL 2.0 Licensed | Copyright © [2022] [???]"
 
 *студент 2-го курсу, групи IM-11*<span padding-right:5em></span> **Алексєєнко Данііл [telegram](https://t.me/dead_chertila)**
 
-*студент 2-го курсу, групи IM-11*<span padding-right:5em></span> **Букач Кирило [telegram](https://t.me/llumiss)**
-
-*студент 2-го курсу, групи IM-11*<span padding-right:5em></span> **Карімлі Зія [telegram](https://t.me/ziya_04)**
-
-*студент 2-го курсу, групи IM-11*<span padding-right:5em></span> **Мороченець Владислав  [telegram](https://t.me/vladmoroca)**
-
-*студент 2-го курсу, групи IM-11*<span padding-right:5em></span> **Олійник Віктор [telegram](https://t.me/VictorOliinyk)**
-
-*студентка 2-го курсу, групи IM-11*<span padding-right:5em></span> **Пономаренко Маргарита [telegram](https://t.me/margo_ponomarenko)**
-
-*студентка 2-го курсу, групи IM-11*<span padding-right:5em></span> **Годованець Аліна [telegram](https://t.me/alina81g)**
-
 **Керівник**
 
 *доцент кафедри ОТ ФІОТ, к.т.н., доцент*<span padding-right:5em></span> **Андрій БОЛДАК** 
